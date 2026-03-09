@@ -5,7 +5,7 @@ import com.taskmanager.dto.TaskRequestDTO;
 import com.taskmanager.dto.TaskResponseDTO;
 import com.taskmanager.entity.enums.Priority;
 import com.taskmanager.entity.enums.Status;
-import com.taskmanager.service.TaskService;
+import com.taskmanager.serviceimpl.TaskService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
